@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Quicksand:wght@400;500;700&family=Roboto:ital,wght@0,100;0,400;0,500;0,900;1,400&display=swap');
+
+/*Regras Gerais*/
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+body{
+  background-color: rgb(250, 248, 248);
+  height: 100%;
+}
+h2{
+  background-color:#ED1B24;
+  color: #fefefe;
+  margin-bottom: 20PX;
+  font-weight: 400;
+}
+
+.container-filiais{
+  display: flex;
+  justify-content: space-evenly;  
+}
+.filiais1{
+}
+.filiais2{
+}
+
+hr{
+  height:1px;
+  background-color:#ED1B24;
+  border: none;
+
+}
+p{
+  color: #353434;
+  font-weight: bold;
+}
+button{
+  margin-bottom: 15px;
+  background-color:#fffdfd;
+  border: solid 1px #636161;
+  padding: 5px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
